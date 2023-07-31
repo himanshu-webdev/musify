@@ -1,1 +1,2 @@
 # musify
+A music app
